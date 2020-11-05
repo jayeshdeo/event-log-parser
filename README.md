@@ -32,7 +32,6 @@ A Spring Boot application which takes in filepath(logfile.txt) from command line
 * Intellij Idea(11.0.8)
 
 ## Installation
- 
 1. Clone the repo
 git clone https://github.com/jayeshdeo/event-log-parser or  download the zip directly.
 
@@ -63,15 +62,9 @@ git clone https://github.com/jayeshdeo/event-log-parser or  download the zip dir
 Example: >mvn spring-boot:run -Dspring-boot.run.arguments="C:\Users\jayes\OneDrive\Documents\creditSuisse\logfile.txt"
 ~~~~
 
-Screenshot of saved log events in the database:
-
-<img src="urlshortner/Images/dockercontainer.PNG" width="500" height ="130">
-
 ## Contact
-
 email - jayeshdeogirikar@gmail.com
 
 ## References
-
 * [Java Code Geeks](https://examples.javacodegeeks.com/enterprise-java/sql-enterprise-java/jdbc-hsqldb-tutorial/)
 * [StackOverFlow For Errors](https://stackoverflow.com/questions/31870710/read-multiple-json-object-from-a-text-file)
