@@ -61,6 +61,10 @@ git clone https://github.com/jayeshdeo/event-log-parser or  download the zip dir
 ~~~~
 Example: >mvn spring-boot:run -Dspring-boot.run.arguments="C:\Users\jayes\OneDrive\Documents\creditSuisse\logfile.txt"
 ~~~~
+* Check the saved results in HSQL file database using the GUI.
+~~~~
+Select * from event;
+~~~~
 
 ## Contact
 email - jayeshdeogirikar@gmail.com
